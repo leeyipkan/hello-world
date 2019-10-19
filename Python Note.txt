@@ -1,4 +1,4 @@
-Run as Adminstrator
+Run as Adminstrator and SA
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 Get-ExecutionPolicy -List
