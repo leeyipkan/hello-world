@@ -2,3 +2,4 @@ Run as Adminstrator and SAAAAAAAAA
 Edit in VS Code
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 Get-ExecutionPolicy -List
+
