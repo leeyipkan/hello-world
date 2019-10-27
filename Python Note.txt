@@ -3,3 +3,4 @@ Edit in VS Code
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 Get-ExecutionPolicy -List
 
+version 1\
